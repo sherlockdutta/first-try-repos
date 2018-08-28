@@ -49,4 +49,10 @@ First type i then start typing for commit
 when the commit is written press esc and type (:wp) to get back
 another way is to simply type 
 - git commit -m 'write the commit msg here'
+
+Whatever u put in .gitignore it will ignore the file
+
+we can create a branch using 
+- git branch 'name of the brach without quotes'
+
 }
