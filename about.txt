@@ -54,5 +54,5 @@ Whatever u put in .gitignore it will ignore the file
 
 we can create a branch using 
 - git branch 'name of the brach without quotes'
-
+ make changes to the branch and commit and later we can merge it to the master.
 }
