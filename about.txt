@@ -1,0 +1,46 @@
+Version Controls :-
+Examples - 
+Dropbox(keep 1 month old copy)
+Google docs
+wikipedia
+
+Git{
+Commit - whenever we create a checkpoint called commits we have to provide commit msg to signify the meaning of the commit.
+
+#commands-
+- FC file1 file2
+{tells the differnce between the file1 and file2}
+
+README? - projects have "README" gives info abt the project and how to use it.
+
+Track multiple files -
+Changes made to single file can be reflected in other for example same function in diff files changes made in one is reflectes in all.
+Ex -Http & CSS files which make up webpage (highly related so one change reflect in other)
+Inside a repository many files can be there so for each commit each version of that file is saved. So for a commit there may be changes in a single file or multiple files.
+
+#cmnds-
+- git init 
+{Creates a .git file hidden by default. Initialize this folder as repository. }
+- git add <file>(after creating repository)
+{Add files which we can commit}
+- git status 
+{to see the diff working tree and staging area}
+- git commit
+(Commits and creates commit in local repository)
+- git push 
+{Push it to remote repositoy like github}
+- git pull 
+{pull latest from remote repository}
+- git clone
+{download or clone a project frm remote repository}
+
+Firstly -
+- git config --global user.name 
+{give user name to commit if done}
+- git config --global user.email
+{give emailid to commit if done}
+git add .
+{add all file in folder}
+git add * .html
+{add all html files etc}
+}
