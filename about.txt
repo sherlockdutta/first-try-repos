@@ -41,6 +41,12 @@ Firstly -
 {give emailid to commit if done}
 git add .
 {add all file in folder}
-git add * .html
+git add *.html
 {add all html files etc}
+
+in git commit
+First type i then start typing for commit
+when the commit is written press esc and type (:wp) to get back
+another way is to simply type 
+- git commit -m 'write the commit msg here'
 }
